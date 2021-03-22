@@ -21,15 +21,15 @@ async function handleRequest(request) {
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a VOOT Online Select streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Prathamesh Pawar">
+    <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.voot.com/favicon.ico">
 
-  <title>Avi Patil | VOOT Online Player and Downloader !!</title>
+  <title>Prathamesh Pawar | VOOT Online Player !!</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/vstyle.css">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/v1style.css">
 
@@ -41,11 +41,11 @@ body{ background-color:#202020;}
 </head>
 <body>
 
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://voot.movhdapp.ml">VOOT HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; font-family: 'Poppins', cursor: pointer;"><a href="https://voot.movietrigger.workers.dev">VOOT Streamer </a></h1>
   
-<br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Balsamiq Sans', cursive; font-size: 17px;">👇 Enter Your VOOT URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
+<br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', cursive; font-size: 17px;"> Enter Your VOOT URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
 
-  <div><form method="get"  action="https://voot.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="https://voot.movietrigger.workers.dev" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter VOOT URL or VIDEO ID" autocomplete="off">
@@ -61,7 +61,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Prathamesh Pawar</a></span>
             </div>
         </footer>
 </body>
@@ -97,13 +97,13 @@ Stream
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a VOOT Online Select streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Prathamesh Pawar">
+    <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.voot.com/favicon.ico">
 
-  <title>Not Found | Avi Patil | VOOT Online Player and Downloader !!</title>
+  <title>Not Found | Prathamesh Pawar | VOOT Online Player !!</title>
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/vstyle.css">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/v1style.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -115,7 +115,7 @@ body{ background-color:#202020;}
 
 </head>
 <body>
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://voot.movhdapp.ml">VOOT HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://voot.movietrigger.workers.dev">VOOT HLS Streamer </a></h1>
   
 <br><br>
 <p style="color:#0EEEBB; text-align:center;font-family: 'Corben', cursive; font-size: 19px;">⚠️ ERROR NOT FOUND ⚠️</p>
@@ -123,7 +123,7 @@ body{ background-color:#202020;}
 
 <br><br><br>
 
-  <div><form method="get"  action="https://voot.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="https://voot.movietrigger.workers.dev" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter VOOT URL or VIDEO ID" autocomplete="off">
@@ -138,7 +138,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Prathamesh Pawar</a></span>
             </div>
         </footer>
 </body>
@@ -152,7 +152,7 @@ Stream
                     "Content-Type": "text/html",
                     "Cache-Control": "no-cache, no-store, must-revalidate",
                     "Access-Control-Allow-Origin": "*",
-                    "Made-By": "https://github.com/avipatilpro/Voot_Player/"
+                    "Made-By": "https://github.com/Redop1189/Voot/"
             })
         })
 
@@ -173,7 +173,7 @@ Stream
                     "Content-Type": "text/html",
                     "Cache-Control": "no-cache, no-store, must-revalidate",
                     "Access-Control-Allow-Origin": "*",
-                    "Made-By": "https://github.com/avipatilpro/Voot_Player/"
+                    "Made-By": "https://github.com/Redop1189/Voot/"
                 })
             })
       }
@@ -182,7 +182,7 @@ async function template(title, img, vurl, vID, desc) {
     return `<html>
 
 <head>
-  <title>${title} | Avishkar Patil</title>
+  <title>${title} | Prathamesh Pawar</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
