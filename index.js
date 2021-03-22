@@ -41,9 +41,9 @@ body{ background-color:#202020;}
 </head>
 <body>
 
-  <h1 style="color:orange; text-align:center; font-family: 'Poppins', cursor: pointer;"><a href="https://voot.movietrigger.workers.dev">VOOT Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; font-family: 'Poppins', sans-serif; cursor: pointer;"><a href="https://voot.movietrigger.workers.dev">VOOT Streamer </a></h1>
   
-<br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', cursive; font-size: 17px;"> Enter Your VOOT URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
+<br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', sans-serif;, cursive; font-size: 17px;"> Enter Your VOOT URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
 
   <div><form method="get"  action="https://voot.movietrigger.workers.dev" _lpchecked="1">
   <center>
@@ -56,7 +56,7 @@ body{ background-color:#202020;}
 Stream
 </button>
 <br><br><br><br><br><br><br>
-  <h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', cursive; font-size: 17px;"> This Project is Made By <br>🚀 Prathamesh Pawar 😉</h3>
+  <h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', sans-serif; cursive; font-size: 17px;"> This Project is Made By <br>🚀 Prathamesh Pawar 😉</h3>
 
 
 <footer class="footer">
