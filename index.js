@@ -55,13 +55,13 @@ body{ background-color:#202020;}
 <button  class="button" type="submit" value="" title="Stream And Enjoy !!">
 Stream
 </button>
-<br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br>
+  <h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', cursive; font-size: 17px;"> This Project is Made By <br>🚀 Prathamesh Pawar 😉</h3>
 
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Prathamesh Pawar</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a></span>
             </div>
         </footer>
 </body>
@@ -138,7 +138,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Prathamesh Pawar</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a></span>
             </div>
         </footer>
 </body>
@@ -282,7 +282,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/22da4d29204c748a526a4.png') no-repeat;
+        background: url('https://raw.githubusercontent.com/Redop1189/zee5op/6fe0ff34905c39dfc2ed2221e5285d09f1b4e486/PP_Logo_white-01.svg') no-repeat;
         background-size: 35px auto, auto;
     }
 
@@ -291,13 +291,12 @@ html {
 <body>
   <div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words">A</span>
-    <span class="loading-text-words">V</span>
+    <span class="loading-text-words">T</span>
+    <span class="loading-text-words">R</span>
     <span class="loading-text-words">I</span>
-    <span class="loading-text-words">S</span>
-    <span class="loading-text-words">H</span>
-    <span class="loading-text-words">K</span>
-    <span class="loading-text-words">A</span>
+    <span class="loading-text-words">G</span>
+    <span class="loading-text-words">G</span>
+    <span class="loading-text-words">E</span>
     <span class="loading-text-words">R</span>
 </div>
 </div>
