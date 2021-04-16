@@ -2,7 +2,7 @@
 
 <p align="center"> ⚒ It can Stream The VOOT Movies , TV Shows and Series All content <br> In Online HLS Player !!</p>
 <br>
-<h3 align="center"> Use This : https://voot.movhdapp.ml </h3><br>
+<h3 align="center"> Use This : https://voot.movietrigger.workers.dev </h3><br>
 <h2> Features :</h2>
 
 ‣ Online HLS Player With all Features <br>
@@ -15,7 +15,7 @@
 
 <h4>
 ‣ Copy Your Content URL or Video ID From VOOT 👇 <br><br>
-‣ Then Gon to https://voot.movhdapp.ml and paste URL or ID in Box. <br><br>
+‣ Then Gon to https://voot.movietrigger.workers.dev and paste URL or ID in Box. <br><br>
 ‣ Then CLick On The STREAM and Enjoy !!  <br>
 
 </h4>
@@ -26,4 +26,4 @@
 
 <h2> Where To Host : </h2>
 
-<h5 align="center"> Copy The index.js code and Host on CloudFlare Workers  or Use https://voot.movhdapp.ml/
+<h5 align="center"> Copy The index.js code and Host on CloudFlare Workers  or Use https://voot.movietrigger.workers.dev
